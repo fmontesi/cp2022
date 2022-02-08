@@ -1,4 +1,4 @@
-package cp.threads.threads;
+package cp.threads;
 
 import java.io.IOException;
 import java.nio.file.Files;
